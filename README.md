@@ -17,6 +17,8 @@ Languages: PHP, HTML/CSS, SQL
 
 Software: XAMPP, MySQL
 
+Framework: Bootstrap
+
 
 ## Demo
 
