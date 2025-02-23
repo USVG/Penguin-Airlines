@@ -1,25 +1,32 @@
-# Penguin-Airlines
+More Information
+=============
 
-Penguin Airlines is a flight booking website, developed as part of a team and created with the humor of a flightless bird in mind, Penguin Airlines aims to provide a seamless experience for customers, with detailed flight searching, ticket booking and more.
-
-Website was adapted from the Progressus Bootstrap template by Sergey Pozhilov
-### Features:
-- Full Database Connection
-- Full Account System
-- Flight Searching including lots of filtering options
-- Flight Booking via account system
-- User Password Encryption
-- Admin Panel for Authorised Users
-
-## Tech Stack
-
-Languages: PHP, HTML/CSS, SQL
-
-Software: XAMPP, MySQL
-
-Framework: Bootstrap
+This website uses Progressus. A free, responsive, nice-looking business boilerplate template based on Bootstrap HTML/CSS framework.
 
 
-## Demo
+License
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-[![YouTube](http://i.ytimg.com/vi/gvM42a200L0/hqdefault.jpg)](https://www.youtube.com/watch?v=gvM42a200L0)
+
+Features
+-----------
+
+* Easy to use, fat-free HTML and CSS code.
+* 7 ready-made templates for most common tasks
+* Responsive design
+* High overall quality, the template does worth to be premium.
+
+
+Bug tracker
+-----------
+
+Found a bug? Please create an issue here on GitHub!
+https://github.com/pozh/Progressus/issues
+
+
+Credits
+-------
+* Design and development: **Sergey Pozhilov** - http://pozhilov.com
+* Photos used in template: **Unsplash** - http://unsplash.com
+* More free templates by Sergey: http://gettemplate.com
